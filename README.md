@@ -106,7 +106,7 @@ Uncover actionable patterns by analyzing the relationship between market psychol
 ```
 
 4. Run notebook: `jupyter notebook trader_sentiment_analysis.ipynb`
-```
+
 
 ## Methodology
 
@@ -211,7 +211,6 @@ jupyter notebook trader_sentiment_analysis.ipynb
 
 **Contact**: narjeenathanveenpk@gmail.com  
 **GitHub**: [github.com/NarjeenaThanveenPK](https://github.com/NarjeenaThanveenPK)  
-
 
 ---
 
