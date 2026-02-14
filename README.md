@@ -84,6 +84,7 @@ Uncover actionable patterns by analyzing the relationship between market psychol
 - Total volume: $1.19 billion
 - 2,340 trader-days analyzed
 
+---
 
 ## Data Access
 
@@ -106,7 +107,6 @@ Uncover actionable patterns by analyzing the relationship between market psychol
 
 4. Run notebook: `jupyter notebook trader_sentiment_analysis.ipynb`
 ```
----
 
 ## Methodology
 
