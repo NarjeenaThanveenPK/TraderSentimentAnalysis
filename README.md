@@ -208,17 +208,3 @@ jupyter notebook trader_sentiment_analysis.ipynb
 ## Author
 
 **Narjeena Thanveen P K**  
-
-**Contact**: narjeenathanveenpk@gmail.com  
-**GitHub**: [github.com/NarjeenaThanveenPK](https://github.com/NarjeenaThanveenPK)  
-
----
-
-  
-**Date**: February 13, 2026  
-
----
-
-*This analysis represents independent work completed for the Primetrade.ai Data Science internship application. All findings are derived from provided datasets using standard data science methodologies.*
-```
-
